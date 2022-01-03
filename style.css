@@ -13,20 +13,30 @@ body {
 .header {
   background-color: #9b6ca5;
 }
-  .nav-list {
-    display: flex;
-    justify-content: flex-end;
-    align-items: center;
-    list-style: none;
-  }
-  .nav-link {
-    position: relative;
-    padding: 0 120px;
-    text-decoration: none;
-    font-size: 22px;
-    font-weight: 300;
-    line-height: 45px;
-    color: #fff; 
-  }
+h1{
+  color: rgb(17, 88, 61);
+}
+h2{
+  color: rgb(17, 88, 61);
+}
+.nav-list {
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+  list-style: none;
+}
+.nav-link {
+  position: relative;
+  padding: 0 120px;
+  text-decoration: none;
+  font-size: 22px;
+  font-weight: 300;
+  line-height: 45px;
+  color: #fff; 
+}
+.avatar {
+    margin: 0;
+}
+
 
   
