@@ -27,7 +27,7 @@ h2{
 }
 .nav-link {
   position: relative;
-  padding: 0 120px;
+  padding: 0 90px;
   text-decoration: none;
   font-size: 22px;
   font-weight: 300;
@@ -43,7 +43,10 @@ h2{
 .contact-value{
   margin-left: 10px;
 }
-
+pre {
+  margin-left: -50px;
+  background-color: rgb(97, 162, 179);;
+}
 
 
   
